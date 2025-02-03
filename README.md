@@ -1,2 +1,2 @@
 # Tri-Space
-##Tri-function workspace - Desktop application
+Tri-function workspace - Desktop application
