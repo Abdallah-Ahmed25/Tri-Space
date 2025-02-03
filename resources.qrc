@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>newbg.jpg</file>
+    </qresource>
+    <qresource prefix="/musics">
+        <file>506054__mellau__button-click-1.wav</file>
+    </qresource>
+</RCC>
